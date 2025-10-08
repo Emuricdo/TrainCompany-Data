@@ -2120,6 +2120,76 @@
 			"proj": 3
 		},
 		{
+			"name": "Zalalövö",
+			"ril100": "XMZL",
+			"group": 2,
+			"x": 1392,
+			"y": 820,
+			"proj": 3
+		},
+		{
+			"name": "Zalaegerszeg",
+			"ril100": "XMZE",
+			"group": 2,
+			"x": 1430,
+			"y": 822,
+			"proj": 3
+		},
+		{
+			"name": "Zalaszentivan",
+			"ril100": "XMZV",
+			"group": 2,
+			"x": 1438,
+			"y": 813,
+			"proj": 3
+		},
+		{
+			"name": "Vasvár",
+			"ril100": "🇭🇺O94074329",
+			"group": 2,
+			"x": 1422,
+			"y": 784,
+			"proj": 3
+		},
+		{
+			"name": "Szombathely",
+			"ril100": "🇭🇺02246",
+			"group": 1,
+			"x": 1397,
+			"y": 754,
+			"platformLength": 300,
+			"platforms": 4,
+			"proj": 3
+		},
+		{
+			"name": "Porpac",
+			"ril100": "XMPP",
+			"group": 5,
+			"x": 1425,
+			"y": 754,
+			"proj": 3
+		},
+		{
+			"name": "Répcelak",
+			"ril100": "🇭🇺O10159959093",
+			"group": 2,
+			"x": 1449,
+			"y": 723,
+			"platformLength": 230,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Csorna",
+			"ril100": "🇭🇺O93800925",
+			"group": 2,
+			"x": 1481,
+			"y": 693,
+			"platformLength": 466,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
 			"name": "Sazhnoe",
 			"ril100": "🇷🇺O3350653987",
 			"group": 2,

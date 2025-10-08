@@ -54742,6 +54742,82 @@
 			]
 		},
 		{
+			"electrified": true,
+			"group": 0,
+			"neededEquipments": [
+				"HU"
+			],
+			"objects": [
+				{
+					"start": "XZHO",
+					"end": "XMZL",
+					"length": 19,
+					"maxSpeed": 120,
+					"twistingFactor": 0.12,
+					"neededEquipments": [
+						"HU",
+						"SI"
+					]
+				},
+				{
+					"start": "XMZL",
+					"end": "XMZE",
+					"length": 20,
+					"maxSpeed": 120,
+					"twistingFactor": 0.15
+				},
+				{
+					"start": "XMZE",
+					"end": "XMZV",
+					"length": 7,
+					"maxSpeed": 120,
+					"twistingFactor": 0.24
+				},
+				{
+					"start": "XMZV",
+					"end": "🇭🇺O94074329",
+					"length": 25,
+					"maxSpeed": 80,
+					"twistingFactor": 0.31
+				},
+				{
+					"start": "🇭🇺O94074329",
+					"end": "🇭🇺02246",
+					"length": 23,
+					"maxSpeed": 100,
+					"twistingFactor": 0.02
+				},
+				{
+					"start": "🇭🇺02246",
+					"end": "XMPP",
+					"length": 15,
+					"maxSpeed": 120,
+					"twistingFactor": 0.15
+				},
+				{
+					"start": "XMPP",
+					"end": "🇭🇺O10159959093",
+					"length": 26,
+					"maxSpeed": 100,
+					"twistingFactor": 0.2
+				},
+				{
+					"start": "🇭🇺O10159959093",
+					"end": "🇭🇺O93800925",
+					"length": 28,
+					"maxSpeed": 100,
+					"twistingFactor": 0.15
+				},
+				{
+					"start": "🇭🇺O93800925",
+					"end": "XMG",
+					"length": 30,
+					"maxSpeed": 120,
+					"twistingFactor": 0.02
+				}
+			]
+		},
+		{
 			"name": "Süd-Lausitzer Bahn",
 			"electrified": false,
 			"group": 0,
