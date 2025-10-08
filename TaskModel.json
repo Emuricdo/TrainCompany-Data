@@ -1763,6 +1763,34 @@
 		},
 		{
 			"group": 0,
+			"name": "Autozug von %s nach %s",
+			"service": 11,
+			"descriptions": [
+				"Die Autos für den Export müssen von %s nach %s"
+			],
+			"objects": [
+				{
+					"stations": [ "XAG", "XZKO" ]
+				},
+				{
+					"stations": [ "XMG", "XZKO" ]
+				},
+				{
+					"stations": [ "MH", "XZKO" ]
+				},
+				{
+					"stations": [ "XZNM", "XZKO" ]
+				},
+				{
+					"stations": [ "XZNM", "XFSTG" ]
+				}
+			],
+			"neededCapacity": [
+				{ "name": "cars", "value": 126 }
+			]
+		},
+		{
+			"group": 0,
 			"name": "Kesselzug von %1$s",
 			"service": 11,
 			"descriptions": [
@@ -2504,16 +2532,20 @@
 			],
 			"objects": [
 				{
-					"stations": [ "MH", "MRO", "XASB", "XASW", "XAVH", "XZL", "XZD", "XRZ" ],
-					"pathSuggestion": [ "MH", "MGB", "MRO", "MBEF", "MTS", "MFL", "XASB", "XABO", "XASW", "XAVH", "XZJ", "XZL", "XZZM", "XZSN", "XZD", "XRZ" ]
+					"stations": [ "TS", "TU", "MA", "MH", "MRO", "XASB", "XASW", "XAVH", "XZL", "XZD", "XRZ" ],
+					"pathSuggestion": [ "TS", "TP", "TAM", "TU", "MGZB", "MA", "MMR", "MH", "MGB", "MRO", "MBEF", "MTS", "MFL", "XASB", "XABO", "XASW", "XAVH", "XZJ", "XZL", "XZZM", "XZSN", "XZD", "XRZ" ]
 				},
 				{
-					"stations": [ "MH", "MRO", "XASB", "XAP", "XAWW", "XMHY", "XMBK" ],
-					"pathSuggestion": [ "MH", "MGB", "MRO", "MBEF", "MTS", "MFL", "XASB", "XASF", "XAAT", "XAWE", "XAL", "XAP", "XAWW", "XMHY", "XMBK" ]
+					"stations": [ "TS", "TU", "MA", "MH", "MRO", "XASB", "XAP", "XAWW", "XMHY", "XMBK" ],
+					"pathSuggestion": [ "TS", "TP", "TAM", "TU", "MGZB", "MA", "MMR", "MH", "MGB", "MRO", "MBEF", "MTS", "MFL", "XASB", "XASF", "XAAT", "XAWE", "XAL", "XAP", "XAWW", "XMHY", "XMG", "XMBK" ]
 				},
 				{
 					"stations": [ "XMBK", "XMHY", "XAWW", "XTBR", "XTP", "DH", "BL", "LM", "EHM", "KW", "KK", "KM", "EDG", "EOB" ],
 					"pathSuggestion": [ "XMBK", "XMHY", "XAWW", "XTBE", "XTBR", "XTTR", "XTP", "XTU", "XTD", "DSA", "DPI", "DHD", "DH", "DGB", "BEW", "BDKO", "BBF", "BL", "LM", "HBS", "HLER", "HH", "HWUN", "HM", "HL", "EHFD", "EBILP", "EHM", "EHG", "KW", "KSO", "KK", "KGRB", "KM", "KV", "EDG", "EOB" ]
+				},
+				{
+					"stations": [ "XSZH", "XSSR", "XSBU", "XAFK", "XABL", "XALA", "XAAB", "XALE", "XAI", "XASW", "XABH", "XABG", "XAMO", "XASP", "XAVH", "XZJ", "XZLB", "XZKJ", "XZL", "XZZM", "XZSN", "XZD", "XRZ" ],
+					"pathSuggestion": [ "XSZH", "XSTW", "XSWW", "XSPF", "XSSR", "XSBU", "XAFK", "XABL", "XALA", "XAAB", "XALE", "XAI", "🇦🇹Fw Z2", "XAWL", "XASW", "XABH", "XABG", "XAMO", "XASP", "XAVH", "XZJ", "XZLB", "XZKJ", "XZL", "XZZM", "XZSN", "XZD", "XRZ" ]
 				}
 			],
 			"neededCapacity": [
@@ -13394,6 +13426,7 @@
 			"name": "Containerzug von %s nach %s",
 			"service": 11,
 			"descriptions": [
+				"Fahre den Containerzug im Hinterland des Adria-Hafens %1$s"
 			],
 			"objects": [
 				{
