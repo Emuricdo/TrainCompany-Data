@@ -4801,7 +4801,7 @@
 			"operationCosts": 70,
 			"exchangeTime": 60,
 			"capacity": [
-				{"name": "passengers", "value": }
+				{"name": "passengers", "value": 168 }
 			],
 			"equipments": ["1600mm", "IE"]
 		},
