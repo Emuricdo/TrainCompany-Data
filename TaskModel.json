@@ -6215,6 +6215,10 @@
 				{
 					"stations": [ "XFFE", "🇫🇷CIC" ],
 					"pathSuggestion": [ "XFFE", "🇫🇷BEM", "🇫🇷AMS", "XFSVF", "XFPO", "XFOL", "🇫🇷TO", "🇫🇷MSD", "🇫🇷MAX", "XFCRT", "XFPT", "🇫🇷RUG", "🇫🇷LXC", "XFANG", "🇫🇷O11799452820", "🇫🇷CIC" ]
+				},
+				{
+					"stations": [ "XABM", "XABK"],
+					"pathSuggestion": [ "XABM", "XASI", "XAAT", "XAWE", "XAL", "XAWW", "XABK" ]
 				}
 			],
 			"neededCapacity": [

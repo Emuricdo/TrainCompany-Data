@@ -6795,6 +6795,72 @@
 			"proj": 3
 		},
 		{
+			"name": "Niklasdorf",
+			"ril100": "XANI",
+			"group": 2,
+			"x": 1191,
+			"y": 728,
+			"proj": 3
+		},
+		{
+			"name": "Bruck an der Mur",
+			"ril100": "XABM",
+			"group": 1,
+			"x": 1209,
+			"y": 724,
+			"platformLength": 416,
+			"platforms": 5,
+			"proj": 3
+		},
+		{
+			"name": "Pernegg",
+			"ril100": "🇦🇹03161",
+			"group": 2,
+			"x": 1218,
+			"y": 733,
+			"proj": 3
+		},
+		{
+			"name": "Mixnitz-Bärenschützklamm",
+			"ril100": "🇦🇹O5849620814",
+			"group": 2,
+			"x": 1220,
+			"y": 738,
+			"proj": 3
+		},
+		{
+			"name": "Frohnleiten",
+			"ril100": "🇦🇹03164",
+			"group": 2,
+			"x": 1216,
+			"y": 749,
+			"proj": 3
+		},
+		{
+			"name": "Peggau-Deutschfeistritz",
+			"ril100": "🇦🇹O5849620811",
+			"group": 2,
+			"x": 1219,
+			"y": 759,
+			"proj": 3
+		},
+		{
+			"name": "Stübing",
+			"ril100": "🇦🇹O5849620808",
+			"group": 5,
+			"x": 1216,
+			"y": 764,
+			"proj": 3
+		},
+		{
+			"name": "Gratwein-Gratkorn",
+			"ril100": "XAGG",
+			"group": 2,
+			"x": 1216,
+			"y": 772,
+			"proj": 3
+		},
+		{
 			"name": "East Lansing",
 			"ril100": "🇺🇸LNS",
 			"group": 1,
