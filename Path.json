@@ -18062,8 +18062,15 @@
 				},
 				{
 					"start": "🇮🇹03212",
+					"end": "XIMOF",
+					"length": 5,
+					"maxSpeed": 110,
+					"twistingFactor": 0.22
+				},
+				{
+					"start": "XIMOF",
 					"end": "🇮🇹03313",
-					"length": 16,
+					"length": 12,
 					"maxSpeed": 110,
 					"twistingFactor": 0.22
 				},
@@ -21149,6 +21156,167 @@
 					"twistingFactor": 0.18
 				}
 			]
+		},
+		{
+			"group": 0,
+			"electrified": true,
+			"neededEquipments": [
+				"IT"
+			],
+			"objects": [
+				{
+					"start": "XIMOF",
+					"end": "🇮🇹03309",
+					"length": 3,
+					"maxSpeed": 110,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇮🇹03309",
+					"end": "🇮🇹03307",
+					"length": 5,
+					"maxSpeed": 110,
+					"twistingFactor": 0.13
+				},
+				{
+					"start": "🇮🇹03307",
+					"end": "XIGC",
+					"length": 13,
+					"maxSpeed": 110,
+					"twistingFactor": 0.22
+				},
+				{
+					"start": "XIGC",
+					"end": "🇮🇹03300",
+					"name": "Udine-Trieste",
+					"length": 11,
+					"maxSpeed": 140,
+					"twistingFactor": 0.13
+				},
+				{
+					"start": "🇮🇹03300",
+					"end": "🇮🇹03031",
+					"length": 4,
+					"maxSpeed": 140,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇮🇹03031",
+					"end": "🇮🇹03029",
+					"length": 2,
+					"maxSpeed": 140,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇮🇹03029",
+					"end": "XIU",
+					"length": 8,
+					"maxSpeed": 140,
+					"twistingFactor": 0.14
+				}
+			]
+		},
+		{
+			"group": 0,
+			"name": "Pontebbana",
+			"electrified": true,
+			"maxSpeed": 180,
+			"neededEquipments": [
+				"IT"
+			],
+			"objects": [
+				{
+					"start": "XIU",
+					"end": "🇮🇹03019",
+					"length": 28,
+					"twistingFactor": 0.2
+				},
+				{
+					"start": "🇮🇹03019",
+					"end": "🇮🇹03018",
+					"length": 6,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇮🇹03018",
+					"end": "🇮🇹03016",
+					"length": 4,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "🇮🇹03016",
+					"end": "🇮🇹03010",
+					"length": 22,
+					"twistingFactor": 0.21
+				},
+				{
+					"start": "🇮🇹03010",
+					"end": "🇮🇹03006",
+					"length": 16,
+					"twistingFactor": 0.3
+				},
+				{
+					"start": "🇮🇹03006",
+					"end": "XITB",
+					"length": 9,
+					"twistingFactor": 0.18
+				}
+			]
+		},
+		{
+			"group": 0,
+			"name": "Rudolfsbahn",
+			"electrified": true,
+			"neededEquipments": [
+				"AT"
+			],
+			"objects": [
+				{
+					"start": "XITB",
+					"end": "🇦🇹O1372327605",
+					"length": 6,
+					"maxSpeed": 150,
+					"twistingFactor": 0.35,
+					"neededEquipments": [
+						"IT",
+						"AT"
+					]
+				},
+				{
+					"start": "🇦🇹O1372327605",
+					"end": "XAAR",
+					"length": 4,
+					"maxSpeed": 100,
+					"twistingFactor": 0.1
+				},
+				{
+					"start": "XAAR",
+					"end": "XAFU",
+					"length": 7,
+					"maxSpeed": 120,
+					"twistingFactor": 0.01
+				},
+				{
+					"start": "XAFU",
+					"end": "XAVH",
+					"length": 8,
+					"maxSpeed": 100,
+					"twistingFactor": 0.36
+				}
+			]
+		},
+		{
+			"group": 1,
+			"electrified": false,
+			"neededEquipments": [
+				"SI",
+				"IT"
+			],
+			"start": "XIGC",
+			"end": "🇸🇮O1864393414",
+			"length": 3,
+			"maxSpeed": 50,
+			"twistingFactor": 0.15
 		},
 		{
 			"group": 0,

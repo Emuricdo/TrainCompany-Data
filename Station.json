@@ -3792,11 +3792,11 @@
 			"proj": 3
 		},
 		{
-			"name": "Ronchi dei Legionari Sud",
+			"name": "Trieste Airport",
 			"ril100": "🇮🇹03212",
 			"group": 2,
-			"x": 967,
-			"y": 992,
+			"x": 963,
+			"y": 994,
 			"proj": 3
 		},
 		{
@@ -61878,6 +61878,142 @@
 			"y": -429,
 			"platformLength": 345,
 			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Monfalcone",
+			"ril100": "XIMOF",
+			"group": 2,
+			"x": 975,
+			"y": 994,
+			"proj": 3
+		},
+		{
+			"name": "Ronchi dei Legionari Nord",
+			"ril100": "🇮🇹03309",
+			"group": 2,
+			"x": 968,
+			"y": 989,
+			"proj": 3
+		},
+		{
+			"name": "Sagrado",
+			"ril100": "🇮🇹03307",
+			"group": 2,
+			"x": 964,
+			"y": 984,
+			"proj": 3
+		},
+		{
+			"name": "Gorizia Centrale",
+			"ril100": "XIGC",
+			"group": 1,
+			"x": 979,
+			"y": 973,
+			"proj": 3
+		},
+		{
+			"name": "Cormons",
+			"ril100": "🇮🇹03300",
+			"group": 2,
+			"x": 961,
+			"y": 969,
+			"proj": 3
+		},
+		{
+			"name": "San Giovanni al Natisone",
+			"ril100": "🇮🇹03031",
+			"group": 2,
+			"x": 952,
+			"y": 966,
+			"proj": 3
+		},
+		{
+			"name": "Buttrio",
+			"ril100": "🇮🇹03029",
+			"group": 2,
+			"x": 942,
+			"y": 960,
+			"proj": 3
+		},
+		{
+			"name": "Udine",
+			"ril100": "XIU",
+			"group": 1,
+			"x": 930,
+			"y": 953,
+			"proj": 3
+		},
+		{
+			"name": "Gemona del Friuli",
+			"ril100": "🇮🇹03019",
+			"group": 2,
+			"x": 913,
+			"y": 916,
+			"proj": 3
+		},
+		{
+			"name": "Venzone",
+			"ril100": "🇮🇹03018",
+			"group": 2,
+			"x": 914,
+			"y": 907,
+			"proj": 3
+		},
+		{
+			"name": "Carnia",
+			"ril100": "🇮🇹03016",
+			"group": 2,
+			"x": 913,
+			"y": 899,
+			"proj": 3
+		},
+		{
+			"name": "Pontebba",
+			"ril100": "🇮🇹03010",
+			"group": 2,
+			"x": 939,
+			"y": 877,
+			"proj": 3
+		},
+		{
+			"name": "Ugovizza-Valbruna",
+			"ril100": "🇮🇹03006",
+			"group": 2,
+			"x": 964,
+			"y": 877,
+			"proj": 3
+		},
+		{
+			"name": "Tarvisio Boscoverde",
+			"ril100": "XITB",
+			"group": 1,
+			"x": 980,
+			"y": 877,
+			"proj": 3
+		},
+		{
+			"name": "Thörl-Maglern",
+			"ril100": "🇦🇹O1372327605",
+			"group": 2,
+			"x": 985,
+			"y": 871,
+			"proj": 3
+		},
+		{
+			"name": "Arnoldstein",
+			"ril100": "XAAR",
+			"group": 2,
+			"x": 993,
+			"y": 869,
+			"proj": 3
+		},
+		{
+			"name": "Fürnitz",
+			"ril100": "XAFU",
+			"group": 2,
+			"x": 1008,
+			"y": 867,
 			"proj": 3
 		},
 		{
