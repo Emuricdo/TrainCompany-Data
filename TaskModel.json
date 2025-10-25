@@ -1951,7 +1951,7 @@
 			"objects": [
 				{
 					"stations": [ "XFPO", "XFD", "XSLA", "XSBG", "XIMB", "XIVNS", "XZL", "XRZ", "XRVI", "XJBC", "XJNI", "XWS", "XWSV", "XQED", "XQIS" ],
-					"pathSuggestion": [ "XFPO", "XFCQ", "XFMEL", "XFLAR", "🇫🇷SIF", "🇫🇷TNN", "XFNUR", "🇫🇷PAI", "🇫🇷MBA", "🇫🇷MLI", "XFD", "🇫🇷GLS", "🇨🇭COS", "XSLA", "🇨🇭VV", "XSMO", "XSGM", "XSVI", "XSBG", "XIR", "XIMB", "XIVP", "XIVNS", "🇮🇹03313", "XZS", "XZDV", "XZPV", "XZL", "XZZM", "XZSN", "XRZ", "XRDS", "XRSV", "XRVI", "XJRU", "XJSP", "XJNP", "XJBC", "XJBR", "XJNI", "XWS", "🇧🇬14000", "XWSV", "XQED", "XQIS" ]
+					"pathSuggestion": [ "XFPO", "XFCQ", "XFMEL", "XFLAR", "🇫🇷SIF", "🇫🇷TNN", "XFNUR", "🇫🇷PAI", "🇫🇷MBA", "🇫🇷MLI", "XFD", "🇫🇷GLS", "🇨🇭COS", "XSLA", "🇨🇭VV", "XSMO", "XSGM", "XSVI", "XSBG", "XIR", "XIMB", "XIVP", "XIVNS", "XIMOF", "🇮🇹03313", "XZS", "XZDV", "XZPV", "XZL", "XZZM", "XZSN", "XRZ", "XRDS", "XRSV", "XRVI", "XJRU", "XJSP", "XJNP", "XJBC", "XJBR", "XJNI", "XWS", "🇧🇬14000", "XWSV", "XQED", "XQIS" ]
 				},
 				{
 					"stations": [ "XBO", "XBB", "XLL", "XFSTG", "XSB", "XIMB", "XIVNS", "XZL", "XRZ", "XRVI", "XJBC", "XJNI", "XWS", "XWSV", "XQED", "XQIS" ],
@@ -1961,7 +1961,7 @@
 						"Verbinde Seine und Bosporus zwischen %s und %s.",
 						"Veranstalte eine luxuriöse Reise, aber bitte ohne Gewaltverbrechen."
 					],
-					"pathSuggestion": [ "XBO", "XBGP", "XBB", "XBNA", "XBMR", "XBLBM", "XBAR", "XLL", "XLB", "XFTHV", "XFMZV", "🇫🇷BDC", "XFRD", "XFMH", "XFVH", "XFSTG", "XFMV", "XSB", "XSBRU", "🇨🇭OTH", "🇨🇭HDK", "🇨🇭RK", "XSIM", "XSAG", "XSADF", "XSGS", "XSAI", "XSBC", "XSBZ", "🇨🇭GIU", "🇨🇭RIB", "🇨🇭TAV", "XSL", "XSME", "XIMB", "XIVP", "XIVNS", "🇮🇹03313", "XZS", "XZDV", "XZPV", "XZL", "XZZM", "XZSN", "XRZ", "XRDS", "XRSV", "XRVI", "XJSP", "XJBC", "XJBR", "XJNI", "XWS", "🇧🇬14000", "XWSV", "XQED", "XQIS" ]
+					"pathSuggestion": [ "XBO", "XBGP", "XBB", "XBNA", "XBMR", "XBLBM", "XBAR", "XLL", "XLB", "XFTHV", "XFMZV", "🇫🇷BDC", "XFRD", "XFMH", "XFVH", "XFSTG", "XFMV", "XSB", "XSBRU", "🇨🇭OTH", "🇨🇭HDK", "🇨🇭RK", "XSIM", "XSAG", "XSADF", "XSGS", "XSAI", "XSBC", "XSBZ", "🇨🇭GIU", "🇨🇭RIB", "🇨🇭TAV", "XSL", "XSME", "XIMB", "XIVP", "XIVNS", "XIMOF", "🇮🇹03313", "XZS", "XZDV", "XZPV", "XZL", "XZZM", "XZSN", "XRZ", "XRDS", "XRSV", "XRVI", "XJSP", "XJBC", "XJBR", "XJNI", "XWS", "🇧🇬14000", "XWSV", "XQED", "XQIS" ]
 				},
 				{
 					"stations": [ "XBO", "XBB", "KK", "FF", "NN", "NPA", "XAL", "XAWW", "XYB", "XYG", "XMBK", "XJST", "XJBC", "XJNI", "XWS", "XWSV", "XQED", "XQIS" ],
@@ -9448,7 +9448,7 @@
 			"objects": [
 				{
 					"stations": [ "XIT", "XICER", "🇮🇹03202", "XIVNS", "XIVP", "XIBCA", "XIMB", "XITU" ],
-					"pathSuggestion": [ "XIT", "🇮🇹03313", "XICER", "🇮🇹03202", "XIVNS", "XIVP", "XIBCA", "XIMB", "XIR", "XITU" ]
+					"pathSuggestion": [ "XIT", "🇮🇹03313", "XIMOF", "XICER", "🇮🇹03202", "XIVNS", "XIVP", "XIBCA", "XIMB", "XIR", "XITU" ]
 				}
 			]
 		},
@@ -13468,11 +13468,11 @@
 				},
 				{
 					"stations": [ "XIT", "XASB" ],
-					"pathSuggestion": [ "XIT", "🇮🇹03313", "XIVP", "XIBZ", "XIFF", "XAI", "🇦🇹Fw Z2", "XAWL", "XASW", "XABO", "XASB" ]
+					"pathSuggestion": [ "XIT", "🇮🇹03313", "XIMOF", "XIVP", "XIBZ", "XIFF", "XAI", "🇦🇹Fw Z2", "XAWL", "XASW", "XABO", "XASB" ]
 				},
 				{
 					"stations": [ "XASB", "XIT" ],
-					"pathSuggestion": [ "XASB", "XABO", "XASW", "XAWL", "🇦🇹Fw Z2", "🇦🇹I Z1", "XIBN", "XIFF", "XIBZ", "XIVP", "🇮🇹03313", "XIT" ]
+					"pathSuggestion": [ "XASB", "XABO", "XASW", "XAWL", "🇦🇹Fw Z2", "🇦🇹I Z1", "XIBN", "XIFF", "XIBZ", "XIVP", "XIMOF", "🇮🇹03313", "XIT" ]
 				}
 			],
 			"neededCapacity": [
