@@ -15,7 +15,7 @@
 			"objects": [
 				{
 					"stations": [ "MH", "MA", "TU", "TS", "RM", "FFLF", "KK", "KD", "EDG", "EE", "EBO", "EDO", "EMST", "HO", "HB", "AHAR", "AH", "AN", "AK" ],
-					"pathSuggestion": [ "MH", "MMR", "MA", "MGZB", "TU", "TS", "TV", "RBR", "RSAB", "RM", "FBL", "FDG", "FFLF", "KSIB", "KT", "KK", "KD", "EDG", "EE", "EBO", "EDO", "EMST", "HO", "HB", "AROG", "ABLZ", "AHAR", "AH", "AEL", "AN", "AK" ]
+					"pathSuggestion": [ "MH", "MMR", "MA", "MGZB", "TU", "TRHZ", "TS", "TV", "RBR", "RSAB", "RM", "FBL", "FDG", "FFLF", "KSIB", "KT", "KK", "KD", "EDG", "EE", "EBO", "EDO", "EMST", "HO", "HB", "AROG", "ABLZ", "AHAR", "AH", "AEL", "AN", "AK" ]
 				},
 				{
 					"stations": [ "MH", "MIH", "NN", "NWH", "NAH", "FF", "FFLF", "KK", "KD", "EDG", "EE", "EBO", "EDO" ],
