@@ -102536,9 +102536,7 @@
 			"group": 6,
 			"x": 2606,
 			"y": -1470,
-			"proj": 3,
-			"platforms": 0,
-			"platformLength": 0
+			"proj": 3
 		},
 		{
 			"name": "Karis",
@@ -102756,9 +102754,7 @@
 			"group": 3,
 			"x": 2685,
 			"y": -1477,
-			"proj": 3,
-			"platforms": 0,
-			"platformLength": 0
+			"proj": 3
 		},
 		{
 			"name": "Malmi",
@@ -102796,9 +102792,7 @@
 			"group": 2,
 			"x": 2267,
 			"y": -1380,
-			"proj": 3,
-			"platforms": 0,
-			"platformLength": 0
+			"proj": 3
 		},
 		{
 			"name": "Oitti",
@@ -102876,9 +102870,7 @@
 			"group": 6,
 			"x": 2040,
 			"y": -1395,
-			"proj": 3,
-			"platforms": 0,
-			"platformLength": 0
+			"proj": 3
 		},
 		{
 			"name": "Pori",
@@ -102916,9 +102908,7 @@
 			"group": 2,
 			"x": 2319,
 			"y": -1412,
-			"proj": 3,
-			"platforms": 0,
-			"platformLength": 0
+			"proj": 3
 		},
 		{
 			"name": "Rautjärvi",
@@ -102926,9 +102916,7 @@
 			"group": 6,
 			"x": 2841,
 			"y": -1532,
-			"proj": 3,
-			"platforms": 0,
-			"platformLength": 0
+			"proj": 3
 		},
 		{
 			"name": "Rekola",
@@ -103026,9 +103014,7 @@
 			"group": 6,
 			"x": 2660,
 			"y": -1472,
-			"proj": 3,
-			"platforms": 0,
-			"platformLength": 0
+			"proj": 3
 		},
 		{
 			"name": "Tampere",
@@ -103116,9 +103102,7 @@
 			"group": 3,
 			"x": 2754,
 			"y": -1464,
-			"proj": 3,
-			"platforms": 0,
-			"platformLength": 0
+			"proj": 3
 		},
 		{
 			"name": "Vammala",
@@ -103156,9 +103140,7 @@
 			"group": 6,
 			"x": 2051,
 			"y": -1532,
-			"proj": 3,
-			"platforms": 0,
-			"platformLength": 0
+			"proj": 3
 		},
 		{
 			"name": "Ähtäri",
@@ -103176,9 +103158,7 @@
 			"group": 6,
 			"x": 2701,
 			"y": -1482,
-			"proj": 3,
-			"platforms": 0,
-			"platformLength": 0
+			"proj": 3
 		},
 		{
 			"name": "Tikkurila",
@@ -103216,9 +103196,7 @@
 			"group": 4,
 			"x": 2405,
 			"y": -1473,
-			"proj": 3,
-			"platforms": 0,
-			"platformLength": 0
+			"proj": 3
 		},
 		{
 			"name": "Mommila",
@@ -103256,9 +103234,7 @@
 			"group": 6,
 			"x": 2489,
 			"y": -1472,
-			"proj": 3,
-			"platforms": 0,
-			"platformLength": 0
+			"proj": 3
 		},
 		{
 			"name": "Utti",
@@ -103266,9 +103242,7 @@
 			"group": 6,
 			"x": 2583,
 			"y": -1466,
-			"proj": 3,
-			"platforms": 0,
-			"platformLength": 0
+			"proj": 3
 		},
 		{
 			"name": "Kaitjärvi",
@@ -103276,9 +103250,7 @@
 			"group": 6,
 			"x": 2634,
 			"y": -1472,
-			"proj": 3,
-			"platforms": 0,
-			"platformLength": 0
+			"proj": 3
 		},
 		{
 			"name": "Törölä",
@@ -103286,9 +103258,7 @@
 			"group": 6,
 			"x": 2713,
 			"y": -1487,
-			"proj": 3,
-			"platforms": 0,
-			"platformLength": 0
+			"proj": 3
 		},
 		{
 			"name": "Tapavainola",
@@ -103296,9 +103266,7 @@
 			"group": 6,
 			"x": 2725,
 			"y": -1488,
-			"proj": 3,
-			"platforms": 0,
-			"platformLength": 0
+			"proj": 3
 		},
 		{
 			"name": "Lauritsala",
@@ -103306,9 +103274,7 @@
 			"group": 6,
 			"x": 2744,
 			"y": -1496,
-			"proj": 3,
-			"platforms": 0,
-			"platformLength": 0
+			"proj": 3
 		},
 		{
 			"name": "Mukko",
@@ -103316,9 +103282,7 @@
 			"group": 6,
 			"x": 2753,
 			"y": -1499,
-			"proj": 3,
-			"platforms": 0,
-			"platformLength": 0
+			"proj": 3
 		},
 		{
 			"name": "Joutsenon",
@@ -103336,9 +103300,7 @@
 			"group": 3,
 			"x": 2795,
 			"y": -1513,
-			"proj": 3,
-			"platforms": 0,
-			"platformLength": 0
+			"proj": 3
 		},
 		{
 			"name": "Imatran",
@@ -103356,9 +103318,7 @@
 			"group": 6,
 			"x": 2817,
 			"y": -1524,
-			"proj": 3,
-			"platforms": 0,
-			"platformLength": 0
+			"proj": 3
 		},
 		{
 			"name": "Laikko",
@@ -103366,9 +103326,7 @@
 			"group": 6,
 			"x": 2862,
 			"y": -1542,
-			"proj": 3,
-			"platforms": 0,
-			"platformLength": 0
+			"proj": 3
 		},
 		{
 			"name": "Saari",
@@ -103376,9 +103334,7 @@
 			"group": 3,
 			"x": 2903,
 			"y": -1594,
-			"proj": 3,
-			"platforms": 1,
-			"platformLength": 201
+			"proj": 3
 		},
 		{
 			"name": "Poiksilta",
@@ -103386,9 +103342,7 @@
 			"group": 2,
 			"x": 2911,
 			"y": -1609,
-			"proj": 3,
-			"platforms": 0,
-			"platformLength": 0
+			"proj": 3
 		},
 		{
 			"name": "Puhos",
@@ -103396,9 +103350,7 @@
 			"group": 3,
 			"x": 2932,
 			"y": -1655,
-			"proj": 3,
-			"platforms": 0,
-			"platformLength": 0
+			"proj": 3
 		},
 		{
 			"name": "Onkamo",
@@ -103406,9 +103358,7 @@
 			"group": 6,
 			"x": 2945,
 			"y": -1689,
-			"proj": 3,
-			"platforms": 0,
-			"platformLength": 0
+			"proj": 3
 		},
 		{
 			"name": "Hammaslahti",
@@ -103416,9 +103366,7 @@
 			"group": 2,
 			"x": 2923,
 			"y": -1708,
-			"proj": 3,
-			"platforms": 0,
-			"platformLength": 0
+			"proj": 3
 		},
 		{
 			"name": "Simola",
@@ -103426,9 +103374,7 @@
 			"group": 6,
 			"x": 2735,
 			"y": -1471,
-			"proj": 3,
-			"platforms": 0,
-			"platformLength": 0
+			"proj": 3
 		},
 		{
 			"name": "Vyborg",
