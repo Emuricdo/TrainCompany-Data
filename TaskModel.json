@@ -15,7 +15,7 @@
 			"objects": [
 				{
 					"stations": [ "MH", "MA", "TU", "TS", "RM", "FFLF", "KK", "KD", "EDG", "EE", "EBO", "EDO", "EMST", "HO", "HB", "AHAR", "AH", "AN", "AK" ],
-					"pathSuggestion": [ "MH", "MMR", "MA", "MGZB", "TU", "TS", "TV", "RBR", "RSAB", "RM", "FBL", "FDG", "FFLF", "KSIB", "KT", "KK", "KD", "EDG", "EE", "EBO", "EDO", "EMST", "HO", "HB", "AROG", "ABLZ", "AHAR", "AH", "AEL", "AN", "AK" ]
+					"pathSuggestion": [ "MH", "MMR", "MA", "MGZB", "TU", "TRHZ", "TS", "TV", "RBR", "RSAB", "RM", "FBL", "FDG", "FFLF", "KSIB", "KT", "KK", "KD", "EDG", "EE", "EBO", "EDO", "EMST", "HO", "HB", "AROG", "ABLZ", "AHAR", "AH", "AEL", "AN", "AK" ]
 				},
 				{
 					"stations": [ "MH", "MIH", "NN", "NWH", "NAH", "FF", "FFLF", "KK", "KD", "EDG", "EE", "EBO", "EDO" ],
@@ -2580,7 +2580,7 @@
 				},
 				{
 					"stations": [ "XAWW", "XAP", "XAL", "XAWE", "XASB", "MRO", "MH", "RK", "XFSTG", "XFN", "XFPO" ],
-					"pathSuggestion": [ "XAWW", "XAP", "XAL", "XAWE", "XAAT", "XASF", "XASB", "MFL", "MTS", "MRO", "MGB", "MH", "MMR", "MA", "MGZB", "TU", "TS", "TV", "TM", "TPH", "RK", "RRA", "RAP", "XFSTG", "XFVH", "XFMH", "XFRD", "XFN", "XFFD", "XFTU", "XFLE", "XFCM", "XFVAR", "XFPO" ]
+					"pathSuggestion": [ "XAWW", "XAP", "XAL", "XAWE", "XAAT", "XASF", "XASB", "MFL", "MTS", "MRO", "MGB", "MH", "MMR", "MA", "MGZB", "TU", "TAM", "TP", "TS", "TV", "TM", "TPH", "RK", "RRA", "RAP", "XFSTG", "XFVH", "XFMH", "XFRD", "XFN", "XFFD", "XFTU", "XFLE", "XFCM", "XFVAR", "XFPO" ]
 				},
 				{
 					"stations": [ "XSZH", "XSBE", "XSLA", "XSGE", "XFLPD", "XFAVV", "XFNB", "XFPE", "XEB" ],
@@ -6002,7 +6002,7 @@
 				},
 				{
 					"stations": [ "AEL", "XSHB" ],
-					"pathSuggestion": [ "AEL", "AH", "AHAR", "ALBG", "HU", "HH", "HG", "FKW", "FFU", "FFD", "FH", "FF", "FD", "RMF", "RH", "RBR", "TV", "TS", "TU", "TAU", "TF", "MLIR", "XAB", "XSSM", "XSRS", "XSHB" ]
+					"pathSuggestion": [ "AEL", "AH", "AHAR", "ALBG", "HU", "HH", "HG", "FKW", "FFU", "FFD", "FH", "FF", "FD", "RMF", "RH", "RBR", "TV", "TS", "TRHZ", "TU", "TAU", "TF", "MLIR", "XAB", "XSSM", "XSRS", "XSHB" ]
 				},
 				{
 					"stations": [ "HAHO", "ALG" ],
@@ -6018,7 +6018,7 @@
 				},
 				{
 					"stations": [ "HAHO", "XSHB" ],
-					"pathSuggestion": [ "HAHO", "HOLD", "HB", "HV", "HNBG", "HWUN", "HH", "HG", "FKW", "FFU", "FFD", "FH", "FF", "FD", "RMF", "RH", "RBR", "TV", "TS", "TU", "TAU", "TF", "MLIR", "XAB", "XSSM", "XSRS", "XSHB" ]
+					"pathSuggestion": [ "HAHO", "HOLD", "HB", "HV", "HNBG", "HWUN", "HH", "HG", "FKW", "FFU", "FFD", "FH", "FF", "FD", "RMF", "RH", "RBR", "TV", "TS", "TRHZ", "TU", "TAU", "TF", "MLIR", "XAB", "XSSM", "XSRS", "XSHB" ]
 				},
 				{
 					"stations": [ "RHBG", "ALG" ],
@@ -6034,7 +6034,7 @@
 				},
 				{
 					"stations": [ "EHBM", "XSHB" ],
-					"pathSuggestion": [ "EHBM", "HA", "HWAR", "FKW", "FFU", "FFD", "FH", "FF", "FD", "RMF", "RH", "RBR", "TV", "TS", "TU", "TAU", "TF", "MLIR", "XAB", "XSSM", "XSRS", "XSHB" ]
+					"pathSuggestion": [ "EHBM", "HA", "HWAR", "FKW", "FFU", "FFD", "FH", "FF", "FD", "RMF", "RH", "RBR", "TV", "TS", "TRHZ", "TU", "TAU", "TF", "MLIR", "XAB", "XSSM", "XSRS", "XSHB" ]
 				}
 			],
 			"neededCapacity": [
@@ -6479,7 +6479,7 @@
 			"neededCapacity": [
 				{ "name": "containers", "value": 15 }
 			],
-			"pathSuggestion": [ "SWAB", "SKL", "SHY", "RN", "RSD", "RM", "RSAB", "RBR", "TV", "TS", "TU", "MGZB", "MA", "MMR", "MH", "MGB", "MRO", "MTS", "MFL", "XASB", "XASF", "XAAT", "XAWE" ]
+			"pathSuggestion": [ "SWAB", "SKL", "SHY", "RN", "RSD", "RM", "RSAB", "RBR", "TV", "TS", "TP", "TAM", "TU", "MGZB", "MA", "MMR", "MH", "MGB", "MRO", "MTS", "MFL", "XASB", "XASF", "XAAT", "XAWE" ]
 		},
 		{
 			"group": 0,
@@ -6592,7 +6592,7 @@
 				},
 				{
 					"stations": [ "TFFL", "FFLF" ],
-					"pathSuggestion": [ "TFFL", "TAU", "TBI", "TU", "TMKL", "TS", "TV", "RBR", "RSAB", "RM", "FBL", "FDG", "FFLF" ]
+					"pathSuggestion": [ "TFFL", "TAU", "TBI", "TU", "TMKL", "TRHZ", "TS", "TV", "RBR", "RSAB", "RM", "FBL", "FDG", "FFLF" ]
 				},
 				{
 					"stations": [ "TFFL", "BFBI" ],
@@ -10250,7 +10250,7 @@
 			"group": 0
 		},
 		{
-			"name": "Regionalbahn von %s nach %s",
+			"name": "Regionalexpress von %s nach %s",
 			"service": 2,
 			"descriptions": [
 				"Fahre von %s nach %s.",
@@ -12638,6 +12638,7 @@
 				"Stuttgart 21 wird bald fertig und es heißt nun: Testfahrten durchführen. Fahre die künftige Strecke des RE1 von %s bis %s ab."
 			],
 			"stations": [ "RK", "TWL", "TPH", "TM", "TV", "TS", "TMKL", "TU", "TBI", "TAU", "TRB", "TMK", "TF", "MLIR" ],
+			"pathSuggestion": [ "RK", "TWL", "TPH", "TM", "TV", "TS", "TRHZ", "TMKL", "TU", "TBI", "TAU", "TRB", "TMK", "TF", "MLIR" ],
 			"neededCapacity": [
 				{ "name": "passengers", "value": 10 }
 			]
