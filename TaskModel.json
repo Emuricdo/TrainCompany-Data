@@ -8309,7 +8309,7 @@
 					"stations": [ "XZL", "XZKG" ]
 				},
 				{
-					"stations": [ "XZL", "XZPV", "XZDV", "XZKO" ]
+					"stations": [ "XZL", "XZPV", "XZDV",  "XZPN", "XZKO" ]
 				},
 				{
 					"stations": [ "XZL", "XZZM", "XZCE", "XZGB", "XZPG", "XZM" ]
@@ -8439,7 +8439,7 @@
 			"descriptions": [
 				"Fahre diesen Regionalzug von %s nach %s."
 			],
-			"stations": [ "XIT", "🇮🇹03313", "XIVNS" ],
+			"stations": [ "XIT", "🇮🇹03313", "XIMOF", "XIVNS" ],
 			"stopsEverywhere": true,
 			"neededCapacity": [
 				{ "name": "passengers" }
