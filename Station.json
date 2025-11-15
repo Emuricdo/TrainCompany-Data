@@ -1214,6 +1214,78 @@
 			"proj": 3
 		},
 		{
+			"name": "Ljubljana Brinje",
+			"ril100": "🇸🇮O1764223725",
+			"group": 5,
+			"x": 1106,
+			"y": 949,
+			"proj": 3
+		},
+		{
+			"name": "Ljubljana Črnuče",
+			"ril100": "🇸🇮O5685226833",
+			"group": 5,
+			"x": 1110,
+			"y": 945,
+			"proj": 3
+		},
+		{
+			"name": "Trzin Mlake",
+			"ril100": "🇸🇮O56530806",
+			"group": 5,
+			"x": 1114,
+			"y": 940,
+			"proj": 3
+		},
+		{
+			"name": "Domžale",
+			"ril100": "🇸🇮O56690650",
+			"group": 1,
+			"x": 1118,
+			"y": 938,
+			"proj": 3
+		},
+		{
+			"name": "Jarše-Mengeš",
+			"ril100": "🇸🇮O1764223124",
+			"group": 5,
+			"x": 1119,
+			"y": 934,
+			"proj": 3
+		},
+		{
+			"name": "Duplica-Bakovnik",
+			"ril100": "🇸🇮O1764223127",
+			"group": 5,
+			"x": 1118,
+			"y": 927,
+			"proj": 3
+		},
+		{
+			"name": "Kamnik",
+			"ril100": "🇸🇮O588851356",
+			"group": 5,
+			"x": 1120,
+			"y": 925,
+			"proj": 3
+		},
+		{
+			"name": "Kamnik mesto",
+			"ril100": "🇸🇮O596494516",
+			"group": 5,
+			"x": 1121,
+			"y": 924,
+			"proj": 3
+		},
+		{
+			"name": "Kamnik Graben",
+			"ril100": "XZKG",
+			"group": 2,
+			"x": 1121,
+			"y": 923,
+			"proj": 3
+		},
+		{
 			"name": "Berezivka",
 			"ril100": "🇺🇦O3383421246",
 			"group": 5,
@@ -2045,6 +2117,76 @@
 			"y": 159,
 			"platforms": 2,
 			"platformLength": 232,
+			"proj": 3
+		},
+		{
+			"name": "Zalalövö",
+			"ril100": "XMZL",
+			"group": 2,
+			"x": 1392,
+			"y": 820,
+			"proj": 3
+		},
+		{
+			"name": "Zalaegerszeg",
+			"ril100": "XMZE",
+			"group": 2,
+			"x": 1430,
+			"y": 822,
+			"proj": 3
+		},
+		{
+			"name": "Zalaszentivan",
+			"ril100": "XMZV",
+			"group": 2,
+			"x": 1438,
+			"y": 813,
+			"proj": 3
+		},
+		{
+			"name": "Vasvár",
+			"ril100": "🇭🇺O94074329",
+			"group": 2,
+			"x": 1422,
+			"y": 784,
+			"proj": 3
+		},
+		{
+			"name": "Szombathely",
+			"ril100": "🇭🇺02246",
+			"group": 1,
+			"x": 1397,
+			"y": 754,
+			"platformLength": 300,
+			"platforms": 4,
+			"proj": 3
+		},
+		{
+			"name": "Porpac",
+			"ril100": "XMPP",
+			"group": 5,
+			"x": 1425,
+			"y": 754,
+			"proj": 3
+		},
+		{
+			"name": "Répcelak",
+			"ril100": "🇭🇺O10159959093",
+			"group": 2,
+			"x": 1449,
+			"y": 723,
+			"platformLength": 230,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Csorna",
+			"ril100": "🇭🇺O93800925",
+			"group": 2,
+			"x": 1481,
+			"y": 693,
+			"platformLength": 466,
+			"platforms": 3,
 			"proj": 3
 		},
 		{
@@ -3650,11 +3792,11 @@
 			"proj": 3
 		},
 		{
-			"name": "Ronchi dei Legionari Sud",
+			"name": "Trieste Airport",
 			"ril100": "🇮🇹03212",
 			"group": 2,
-			"x": 967,
-			"y": 992,
+			"x": 963,
+			"y": 994,
 			"proj": 3
 		},
 		{
@@ -5802,8 +5944,8 @@
 			"name": "Vintgar",
 			"ril100": "🇸🇮O472725357",
 			"group": 5,
-			"x": 1049,
-			"y": 893,
+			"x": 1047,
+			"y": 895,
 			"proj": 3
 		},
 		{
@@ -6650,6 +6792,72 @@
 			"group": 1,
 			"x": -13134,
 			"y": 1585,
+			"proj": 3
+		},
+		{
+			"name": "Niklasdorf",
+			"ril100": "XANI",
+			"group": 2,
+			"x": 1191,
+			"y": 728,
+			"proj": 3
+		},
+		{
+			"name": "Bruck an der Mur",
+			"ril100": "XABM",
+			"group": 1,
+			"x": 1209,
+			"y": 724,
+			"platformLength": 416,
+			"platforms": 5,
+			"proj": 3
+		},
+		{
+			"name": "Pernegg",
+			"ril100": "🇦🇹03161",
+			"group": 2,
+			"x": 1218,
+			"y": 733,
+			"proj": 3
+		},
+		{
+			"name": "Mixnitz-Bärenschützklamm",
+			"ril100": "🇦🇹O5849620814",
+			"group": 2,
+			"x": 1220,
+			"y": 738,
+			"proj": 3
+		},
+		{
+			"name": "Frohnleiten",
+			"ril100": "🇦🇹03164",
+			"group": 2,
+			"x": 1216,
+			"y": 749,
+			"proj": 3
+		},
+		{
+			"name": "Peggau-Deutschfeistritz",
+			"ril100": "🇦🇹O5849620811",
+			"group": 2,
+			"x": 1219,
+			"y": 759,
+			"proj": 3
+		},
+		{
+			"name": "Stübing",
+			"ril100": "🇦🇹O5849620808",
+			"group": 5,
+			"x": 1216,
+			"y": 764,
+			"proj": 3
+		},
+		{
+			"name": "Gratwein-Gratkorn",
+			"ril100": "XAGG",
+			"group": 2,
+			"x": 1216,
+			"y": 772,
 			"proj": 3
 		},
 		{
@@ -19366,6 +19574,78 @@
 			"proj": 3
 		},
 		{
+			"name": "Ljubljana Zalog",
+			"ril100": "🇸🇮O1867167114",
+			"group": 2,
+			"x": 1122,
+			"y": 952,
+			"proj": 3
+		},
+		{
+			"name": "Laze",
+			"ril100": "🇸🇮O50123055",
+			"group": 5,
+			"x": 1132,
+			"y": 947,
+			"proj": 3
+		},
+		{
+			"name": "Jevnica",
+			"ril100": "🇸🇮O259624179",
+			"group": 5,
+			"x": 1139,
+			"y": 948,
+			"proj": 3
+		},
+		{
+			"name": "Železniška postaja Kresnice",
+			"ril100": "🇸🇮O531198929",
+			"group": 2,
+			"x": 1146,
+			"y": 945,
+			"proj": 3
+		},
+		{
+			"name": "Litija",
+			"ril100": "XZLJ",
+			"group": 2,
+			"x": 1151,
+			"y": 952,
+			"proj": 3
+		},
+		{
+			"name": "Sava",
+			"ril100": "🇸🇮O12304875295",
+			"group": 5,
+			"x": 1162,
+			"y": 947,
+			"proj": 3
+		},
+		{
+			"name": "Zagorje",
+			"ril100": "XZZG",
+			"group": 2,
+			"x": 1174,
+			"y": 942,
+			"proj": 3
+		},
+		{
+			"name": "Trbovlje",
+			"ril100": "XZT",
+			"group": 2,
+			"x": 1181,
+			"y": 941,
+			"proj": 3
+		},
+		{
+			"name": "Hrastnik",
+			"ril100": "🇸🇮O3268732110",
+			"group": 2,
+			"x": 1189,
+			"y": 941,
+			"proj": 3
+		},
+		{
 			"name": "Wapley",
 			"ril100": "🇬🇧O66729286",
 			"group": 6,
@@ -21137,6 +21417,134 @@
 			"proj": 3
 		},
 		{
+			"name": "Ponikve",
+			"ril100": "🇸🇮O1867325606",
+			"group": 5,
+			"x": 1182,
+			"y": 979,
+			"proj": 3
+		},
+		{
+			"name": "Mirna Peč",
+			"ril100": "🇸🇮O1867325580",
+			"group": 5,
+			"x": 1189,
+			"y": 984,
+			"proj": 3
+		},
+		{
+			"name": "Hudo",
+			"ril100": "🇸🇮O1867325613",
+			"group": 5,
+			"x": 1196,
+			"y": 990,
+			"proj": 3
+		},
+		{
+			"name": "Novo Mesto",
+			"ril100": "XZNM",
+			"group": 1,
+			"x": 1200,
+			"y": 995,
+			"proj": 3
+		},
+		{
+			"name": "Birčna Vas",
+			"ril100": "🇸🇮O1867337166",
+			"group": 5,
+			"x": 1198,
+			"y": 1003,
+			"proj": 3
+		},
+		{
+			"name": "Uršna sela",
+			"ril100": "🇸🇮O6125616440",
+			"group": 5,
+			"x": 1195,
+			"y": 1010,
+			"proj": 3
+		},
+		{
+			"name": "Rožni Dol",
+			"ril100": "🇸🇮O1867339434",
+			"group": 5,
+			"x": 1198,
+			"y": 1016,
+			"proj": 3
+		},
+		{
+			"name": "Semič",
+			"ril100": "🇸🇮O6234999157",
+			"group": 5,
+			"x": 1200,
+			"y": 1022,
+			"proj": 3
+		},
+		{
+			"name": "Črnomelj",
+			"ril100": "🇸🇮O6389634381",
+			"group": 2,
+			"x": 1204,
+			"y": 1033,
+			"proj": 3
+		},
+		{
+			"name": "Gradac",
+			"ril100": "🇸🇮O6329604075",
+			"group": 5,
+			"x": 1212,
+			"y": 1028,
+			"proj": 3
+		},
+		{
+			"name": "Metlika",
+			"ril100": "XZMK",
+			"group": 2,
+			"x": 1221,
+			"y": 1022,
+			"proj": 3
+		},
+		{
+			"name": "Rosalnice",
+			"ril100": "XZRO",
+			"group": 2,
+			"x": 1226,
+			"y": 1021,
+			"proj": 3
+		},
+		{
+			"name": "Kamanje",
+			"ril100": "🇭🇷O11039803006",
+			"group": 2,
+			"x": 1235,
+			"y": 1022,
+			"proj": 3
+		},
+		{
+			"name": "Ozalj",
+			"ril100": "🇭🇷O11039775606",
+			"group": 2,
+			"x": 1245,
+			"y": 1027,
+			"proj": 3
+		},
+		{
+			"name": "Zorkovac",
+			"ril100": "🇭🇷O8007703731",
+			"group": 5,
+			"x": 1252,
+			"y": 1031,
+			"proj": 3
+		},
+		{
+			"name": "Mahićno",
+			"ril100": "🇭🇷O1867356644",
+			"group": 2,
+			"x": 1253,
+			"y": 1037,
+			"proj": 3
+		},
+		{
 			"name": "Örebro centralstation",
 			"ril100": "XVO",
 			"group": 1,
@@ -22330,6 +22738,120 @@
 			"x": 1312,
 			"y": -1469,
 			"platformLength": 120,
+			"proj": 3
+		},
+		{
+			"name": "Ljubljana Rakovnik",
+			"ril100": "🇸🇮O5685102239",
+			"group": 5,
+			"x": 1109,
+			"y": 956,
+			"proj": 3
+		},
+		{
+			"name": "Lavrica",
+			"ril100": "🇸🇮O6127111840",
+			"group": 5,
+			"x": 1114,
+			"y": 962,
+			"platformLength": 102,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Škofljica",
+			"ril100": "🇸🇮O50736008",
+			"group": 5,
+			"x": 1116,
+			"y": 965,
+			"proj": 3
+		},
+		{
+			"name": "Šmarje-Sap",
+			"ril100": "🇸🇮O1249794844",
+			"group": 5,
+			"x": 1123,
+			"y": 966,
+			"proj": 3
+		},
+		{
+			"name": "Grosuplje",
+			"ril100": "XZGS",
+			"group": 2,
+			"x": 1128,
+			"y": 969,
+			"proj": 3
+		},
+		{
+			"name": "Spodnja Slivnica",
+			"ril100": "🇸🇮O1666515768",
+			"group": 5,
+			"x": 1128,
+			"y": 973,
+			"proj": 3
+		},
+		{
+			"name": "Čušperk",
+			"ril100": "🇸🇮O8424940117",
+			"group": 5,
+			"x": 1134,
+			"y": 980,
+			"proj": 3
+		},
+		{
+			"name": "Dobrepolje",
+			"ril100": "🇸🇮O8424927519",
+			"group": 5,
+			"x": 1132,
+			"y": 986,
+			"proj": 3
+		},
+		{
+			"name": "Velike Lašče",
+			"ril100": "🇸🇮O2373056648",
+			"group": 5,
+			"x": 1127,
+			"y": 989,
+			"proj": 3
+		},
+		{
+			"name": "Ortnek",
+			"ril100": "🇸🇮O7643291862",
+			"group": 5,
+			"x": 1132,
+			"y": 997,
+			"proj": 3
+		},
+		{
+			"name": "Žlebič",
+			"ril100": "🇸🇮O7643291861",
+			"group": 5,
+			"x": 1134,
+			"y": 1001,
+			"proj": 3
+		},
+		{
+			"name": "Ribnica",
+			"ril100": "🇸🇮O7417574422",
+			"group": 2,
+			"x": 1139,
+			"y": 1005,
+			"proj": 3
+		},
+		{
+			"name": "Stara Cerkev",
+			"ril100": "🇸🇮O2373003636",
+			"group": 5,
+			"x": 1155,
+			"y": 1018,
+			"proj": 3
+		},
+		{
+			"name": "Kočevje",
+			"ril100": "XZKOV",
+			"group": 2,
+			"x": 1158,
+			"y": 1022,
 			"proj": 3
 		},
 		{
@@ -39865,6 +40387,78 @@
 			"proj": 3
 		},
 		{
+			"name": "Podgorje",
+			"ril100": "🇸🇮O3009139742",
+			"group": 2,
+			"x": 1030,
+			"y": 1040,
+			"proj": 3
+		},
+		{
+			"name": "Buzet",
+			"ril100": "🇭🇷O1836345185",
+			"group": 2,
+			"x": 1036,
+			"y": 1059,
+			"proj": 3
+		},
+		{
+			"name": "Lupoglav",
+			"ril100": "🇭🇷O13133895466",
+			"group": 2,
+			"x": 1053,
+			"y": 1071,
+			"proj": 3
+		},
+		{
+			"name": "Borut",
+			"ril100": "🇭🇷O11073101045",
+			"group": 2,
+			"x": 1046,
+			"y": 1079,
+			"proj": 3
+		},
+		{
+			"name": "Cerovlje",
+			"ril100": "🇭🇷O11073101039",
+			"group": 2,
+			"x": 1041,
+			"y": 1084,
+			"proj": 3
+		},
+		{
+			"name": "Pazin",
+			"ril100": "🇭🇷O11073101019",
+			"group": 2,
+			"x": 1031,
+			"y": 1090,
+			"proj": 3
+		},
+		{
+			"name": "Sveti Petar u Šumi",
+			"ril100": "🇭🇷O11073100955",
+			"group": 2,
+			"x": 1020,
+			"y": 1099,
+			"proj": 3
+		},
+		{
+			"name": "Kanfanar",
+			"ril100": "🇭🇷O11073100916",
+			"group": 2,
+			"x": 1016,
+			"y": 1111,
+			"proj": 3
+		},
+		{
+			"name": "Pula",
+			"ril100": "XRPU",
+			"group": 2,
+			"x": 1018,
+			"y": 1151,
+			"proj": 3
+		},
+		{
 			"group": 2,
 			"name": "Bramsche",
 			"ril100": "HBRM",
@@ -43464,6 +44058,96 @@
 			"proj": 3
 		},
 		{
+			"name": "Celje Lava",
+			"ril100": "🇸🇮O939949697",
+			"group": 5,
+			"x": 1211,
+			"y": 922,
+			"proj": 3
+		},
+		{
+			"name": "Petrovče",
+			"ril100": "🇸🇮O949513697",
+			"group": 5,
+			"x": 1202,
+			"y": 921,
+			"platformLength": 78,
+			"platforms": 1,
+			"proj": 3
+		},
+		{
+			"name": "Žalec",
+			"ril100": "🇸🇮O1761384950",
+			"group": 2,
+			"x": 1198,
+			"y": 920,
+			"proj": 3
+		},
+		{
+			"name": "Šempeter v Savinjski dolini",
+			"ril100": "🇸🇮O1761384954",
+			"group": 5,
+			"x": 1191,
+			"y": 918,
+			"proj": 3
+		},
+		{
+			"name": "Polzela",
+			"ril100": "🇸🇮O2667243466",
+			"group": 2,
+			"x": 1184,
+			"y": 914,
+			"proj": 3
+		},
+		{
+			"name": "Šmartno ob Paki",
+			"ril100": "🇸🇮O12728668676",
+			"group": 5,
+			"x": 1180,
+			"y": 907,
+			"proj": 3
+		},
+		{
+			"name": "Paška vas",
+			"ril100": "🇸🇮O1867180033",
+			"group": 5,
+			"x": 1177,
+			"y": 904,
+			"proj": 3
+		},
+		{
+			"name": "Florjan",
+			"ril100": "🇸🇮O1867181680",
+			"group": 5,
+			"x": 1179,
+			"y": 898,
+			"proj": 3
+		},
+		{
+			"name": "Šoštanj",
+			"ril100": "🇸🇮O5879733018",
+			"group": 5,
+			"x": 1181,
+			"y": 898,
+			"proj": 3
+		},
+		{
+			"name": "Velenje Pesje",
+			"ril100": "🇸🇮O1867182562",
+			"group": 5,
+			"x": 1186,
+			"y": 900,
+			"proj": 3
+		},
+		{
+			"name": "Velenje",
+			"ril100": "XZVE",
+			"group": 2,
+			"x": 1189,
+			"y": 901,
+			"proj": 3
+		},
+		{
 			"name": "Glenview",
 			"ril100": "🇺🇸GLN",
 			"group": 2,
@@ -45649,6 +46333,78 @@
 			"group": 5,
 			"y": -9,
 			"x": -217,
+			"proj": 3
+		},
+		{
+			"name": "Frankovci",
+			"ril100": "🇸🇮O422472910",
+			"group": 5,
+			"x": 1342,
+			"y": 896,
+			"proj": 3
+		},
+		{
+			"name": "Obrež",
+			"ril100": "🇸🇮O1867220563",
+			"group": 5,
+			"x": 1345,
+			"y": 896,
+			"proj": 3
+		},
+		{
+			"name": "Središče",
+			"ril100": "🇸🇮O11735079443",
+			"group": 2,
+			"x": 1353,
+			"y": 896,
+			"proj": 3
+		},
+		{
+			"name": "Macinec",
+			"ril100": "🇭🇷O1871042007",
+			"group": 5,
+			"x": 1359,
+			"y": 897,
+			"proj": 3
+		},
+		{
+			"name": "Cakovec",
+			"ril100": "XRC",
+			"group": 2,
+			"x": 1373,
+			"y": 897,
+			"proj": 3
+		},
+		{
+			"name": "Mala Subotica",
+			"ril100": "🇭🇷O1951096340",
+			"group": 2,
+			"x": 1389,
+			"y": 898,
+			"proj": 3
+		},
+		{
+			"name": "Donji Kraljevec",
+			"ril100": "XRDK",
+			"group": 2,
+			"x": 1404,
+			"y": 900,
+			"proj": 3
+		},
+		{
+			"name": "Kotoriba",
+			"ril100": "🇭🇷74808",
+			"group": 2,
+			"x": 1427,
+			"y": 902,
+			"proj": 3
+		},
+		{
+			"name": "Murakeresztúr",
+			"ril100": "🇭🇺O344909742",
+			"group": 2,
+			"x": 1437,
+			"y": 901,
 			"proj": 3
 		},
 		{
@@ -61122,6 +61878,142 @@
 			"y": -429,
 			"platformLength": 345,
 			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Monfalcone",
+			"ril100": "XIMOF",
+			"group": 2,
+			"x": 975,
+			"y": 994,
+			"proj": 3
+		},
+		{
+			"name": "Ronchi dei Legionari Nord",
+			"ril100": "🇮🇹03309",
+			"group": 2,
+			"x": 968,
+			"y": 989,
+			"proj": 3
+		},
+		{
+			"name": "Sagrado",
+			"ril100": "🇮🇹03307",
+			"group": 2,
+			"x": 964,
+			"y": 984,
+			"proj": 3
+		},
+		{
+			"name": "Gorizia Centrale",
+			"ril100": "XIGC",
+			"group": 1,
+			"x": 979,
+			"y": 973,
+			"proj": 3
+		},
+		{
+			"name": "Cormons",
+			"ril100": "🇮🇹03300",
+			"group": 2,
+			"x": 961,
+			"y": 969,
+			"proj": 3
+		},
+		{
+			"name": "San Giovanni al Natisone",
+			"ril100": "🇮🇹03031",
+			"group": 2,
+			"x": 952,
+			"y": 966,
+			"proj": 3
+		},
+		{
+			"name": "Buttrio",
+			"ril100": "🇮🇹03029",
+			"group": 2,
+			"x": 942,
+			"y": 960,
+			"proj": 3
+		},
+		{
+			"name": "Udine",
+			"ril100": "XIU",
+			"group": 1,
+			"x": 930,
+			"y": 953,
+			"proj": 3
+		},
+		{
+			"name": "Gemona del Friuli",
+			"ril100": "🇮🇹03019",
+			"group": 2,
+			"x": 913,
+			"y": 916,
+			"proj": 3
+		},
+		{
+			"name": "Venzone",
+			"ril100": "🇮🇹03018",
+			"group": 2,
+			"x": 914,
+			"y": 907,
+			"proj": 3
+		},
+		{
+			"name": "Carnia",
+			"ril100": "🇮🇹03016",
+			"group": 2,
+			"x": 913,
+			"y": 899,
+			"proj": 3
+		},
+		{
+			"name": "Pontebba",
+			"ril100": "🇮🇹03010",
+			"group": 2,
+			"x": 939,
+			"y": 877,
+			"proj": 3
+		},
+		{
+			"name": "Ugovizza-Valbruna",
+			"ril100": "🇮🇹03006",
+			"group": 2,
+			"x": 964,
+			"y": 877,
+			"proj": 3
+		},
+		{
+			"name": "Tarvisio Boscoverde",
+			"ril100": "XITB",
+			"group": 1,
+			"x": 980,
+			"y": 877,
+			"proj": 3
+		},
+		{
+			"name": "Thörl-Maglern",
+			"ril100": "🇦🇹O1372327605",
+			"group": 2,
+			"x": 985,
+			"y": 871,
+			"proj": 3
+		},
+		{
+			"name": "Arnoldstein",
+			"ril100": "XAAR",
+			"group": 2,
+			"x": 993,
+			"y": 869,
+			"proj": 3
+		},
+		{
+			"name": "Fürnitz",
+			"ril100": "XAFU",
+			"group": 2,
+			"x": 1008,
+			"y": 867,
 			"proj": 3
 		},
 		{
@@ -90154,6 +91046,126 @@
 			"proj": 3
 		},
 		{
+			"name": "Mlačevo",
+			"ril100": "🇸🇮O2443074793",
+			"group": 5,
+			"x": 1132,
+			"y": 972,
+			"proj": 3
+		},
+		{
+			"name": "Višnja Gora",
+			"ril100": "🇸🇮O5685085087",
+			"group": 2,
+			"x": 1140,
+			"y": 969,
+			"proj": 3
+		},
+		{
+			"name": "Ivančna Gorica",
+			"ril100": "🇸🇮O7526714187",
+			"group": 2,
+			"x": 1149,
+			"y": 972,
+			"proj": 3
+		},
+		{
+			"name": "Radohova vas",
+			"ril100": "🇸🇮O7417590946",
+			"group": 5,
+			"x": 1159,
+			"y": 972,
+			"proj": 3
+		},
+		{
+			"name": "Šentlovrenc",
+			"ril100": "🇸🇮O1867321486",
+			"group": 5,
+			"x": 1168,
+			"y": 972,
+			"proj": 3
+		},
+		{
+			"name": "Velika Loka",
+			"ril100": "🇸🇮O1867321482",
+			"group": 5,
+			"x": 1172,
+			"y": 973,
+			"proj": 3
+		},
+		{
+			"name": "Trebnje",
+			"ril100": "XZTR",
+			"group": 2,
+			"x": 1178,
+			"y": 978,
+			"proj": 3
+		},
+		{
+			"name": "Gomila",
+			"ril100": "🇸🇮O1867352427",
+			"group": 5,
+			"x": 1183,
+			"y": 973,
+			"proj": 3
+		},
+		{
+			"name": "Mirna",
+			"ril100": "🇸🇮O414266405",
+			"group": 2,
+			"x": 1185,
+			"y": 971,
+			"proj": 3
+		},
+		{
+			"name": "Šentrupert",
+			"ril100": "🇸🇮O1867351990",
+			"group": 5,
+			"x": 1189,
+			"y": 969,
+			"proj": 3
+		},
+		{
+			"name": "Mokronog",
+			"ril100": "🇸🇮O5854905459",
+			"group": 5,
+			"x": 1193,
+			"y": 969,
+			"proj": 3
+		},
+		{
+			"name": "Pijavice",
+			"ril100": "🇸🇮O1867351456",
+			"group": 5,
+			"x": 1199,
+			"y": 967,
+			"proj": 3
+		},
+		{
+			"name": "Tržišče",
+			"ril100": "🇸🇮O5842592452",
+			"group": 5,
+			"x": 1203,
+			"y": 968,
+			"proj": 3
+		},
+		{
+			"name": "Jelovec",
+			"ril100": "🇸🇮O1867350778",
+			"group": 5,
+			"x": 1210,
+			"y": 964,
+			"proj": 3
+		},
+		{
+			"name": "Boštanj",
+			"ril100": "🇸🇮O5684864292",
+			"group": 5,
+			"x": 1214,
+			"y": 962,
+			"proj": 3
+		},
+		{
 			"name": "Griazi-Orlovskie",
 			"ril100": "🇷🇺O2456143538",
 			"group": 2,
@@ -102309,6 +103321,1092 @@
 			"y": 527,
 			"platformLength": 110,
 			"proj": 3
+		},
+		{
+			"name": "Ainola",
+			"ril100": "🇫🇮AIN",
+			"group": 2,
+			"x": 2363,
+			"y": -1400,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 270
+		},
+		{
+			"name": "Alavus",
+			"ril100": "🇫🇮ALV",
+			"group": 2,
+			"x": 2140,
+			"y": -1737,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 80
+		},
+		{
+			"name": "Eläinpuisto-Zoo",
+			"ril100": "🇫🇮EPZ",
+			"group": 5,
+			"x": 2213,
+			"y": -1725,
+			"proj": 3,
+			"platforms": 1,
+			"platformLength": 40
+		},
+		{
+			"name": "Haapamäki",
+			"ril100": "🇫🇮HPK",
+			"group": 2,
+			"x": 2251,
+			"y": -1679,
+			"proj": 3,
+			"platforms": 5,
+			"platformLength": 320
+		},
+		{
+			"name": "Hanko",
+			"ril100": "🇫🇮HNK",
+			"group": 2,
+			"x": 2106,
+			"y": -1301,
+			"proj": 3,
+			"platforms": 1,
+			"platformLength": 150
+		},
+		{
+			"name": "Harjavalta",
+			"ril100": "🇫🇮HVA",
+			"group": 2,
+			"x": 1980,
+			"y": -1534,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 250
+		},
+		{
+			"name": "Helsinki Hauptbahnhof",
+			"ril100": "🇫🇮HKI",
+			"group": 0,
+			"x": 2348,
+			"y": -1356,
+			"proj": 3,
+			"platforms": 19,
+			"platformLength": 450
+		},
+		{
+			"name": "Henna",
+			"ril100": "🇫🇮HNN",
+			"group": 2,
+			"x": 2406,
+			"y": -1454,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 220
+		},
+		{
+			"name": "Hiekkaharju",
+			"ril100": "🇫🇮HKH",
+			"group": 2,
+			"x": 2359,
+			"y": -1376,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 510
+		},
+		{
+			"name": "Hikiä",
+			"ril100": "🇫🇮HK",
+			"group": 2,
+			"x": 2335,
+			"y": -1447,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 125
+		},
+		{
+			"name": "Huopalahti",
+			"ril100": "🇫🇮HPL",
+			"group": 2,
+			"x": 2341,
+			"y": -1363,
+			"proj": 3,
+			"platforms": 4,
+			"platformLength": 270
+		},
+		{
+			"name": "Hyvinkää",
+			"ril100": "🇫🇮HY",
+			"group": 2,
+			"x": 2329,
+			"y": -1428,
+			"proj": 3,
+			"platforms": 3,
+			"platformLength": 320
+		},
+		{
+			"name": "Hämeenlinna",
+			"ril100": "🇫🇮HL",
+			"group": 2,
+			"x": 2275,
+			"y": -1486,
+			"proj": 3,
+			"platforms": 3,
+			"platformLength": 440
+		},
+		{
+			"name": "Iittala",
+			"ril100": "🇫🇮ITA",
+			"group": 2,
+			"x": 2232,
+			"y": -1500,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 170
+		},
+		{
+			"name": "Ingå",
+			"ril100": "🇫🇮IKO",
+			"group": 2,
+			"x": 2224,
+			"y": -1338,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 165
+		},
+		{
+			"name": "Joensuu",
+			"ril100": "🇫🇮JNS",
+			"group": 2,
+			"x": 2895,
+			"y": -1734,
+			"proj": 3,
+			"platforms": 3,
+			"platformLength": 320
+		},
+		{
+			"name": "Jokela",
+			"ril100": "🇫🇮JK",
+			"group": 2,
+			"x": 2345,
+			"y": -1416,
+			"proj": 3,
+			"platforms": 3,
+			"platformLength": 320
+		},
+		{
+			"name": "Juupajoki",
+			"ril100": "🇫🇮JJ",
+			"group": 5,
+			"x": 2248,
+			"y": -1610,
+			"proj": 3,
+			"platforms": 1,
+			"platformLength": 80
+		},
+		{
+			"name": "Jyväskylä",
+			"ril100": "🇫🇮JY",
+			"group": 1,
+			"x": 2410,
+			"y": -1678,
+			"proj": 3,
+			"platforms": 3,
+			"platformLength": 390
+		},
+		{
+			"name": "Jämsä",
+			"ril100": "🇫🇮JÄS",
+			"group": 2,
+			"x": 2346,
+			"y": -1620,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 390
+		},
+		{
+			"name": "Järvelä",
+			"ril100": "🇫🇮JR",
+			"group": 2,
+			"x": 2377,
+			"y": -1465,
+			"proj": 3,
+			"platforms": 3,
+			"platformLength": 130
+		},
+		{
+			"name": "Järvenpää",
+			"ril100": "🇫🇮JP",
+			"group": 2,
+			"x": 2361,
+			"y": -1403,
+			"proj": 3,
+			"platforms": 3,
+			"platformLength": 380
+		},
+		{
+			"name": "Kaipiainen",
+			"ril100": "🇫🇮KPA",
+			"group": 6,
+			"x": 2606,
+			"y": -1470,
+			"proj": 3
+		},
+		{
+			"name": "Karis",
+			"ril100": "🇫🇮KR",
+			"group": 1,
+			"x": 2189,
+			"y": -1339,
+			"proj": 3,
+			"platforms": 3,
+			"platformLength": 340
+		},
+		{
+			"name": "Karkku",
+			"ril100": "🇫🇮KRU",
+			"group": 2,
+			"x": 2091,
+			"y": -1555,
+			"proj": 3,
+			"platforms": 1,
+			"platformLength": 250
+		},
+		{
+			"name": "Kauklahti",
+			"ril100": "🇫🇮KLH",
+			"group": 2,
+			"x": 2304,
+			"y": -1358,
+			"proj": 3,
+			"platforms": 3,
+			"platformLength": 270
+		},
+		{
+			"name": "Kausala",
+			"ril100": "🇫🇮KA",
+			"group": 2,
+			"x": 2508,
+			"y": -1468,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 120
+		},
+		{
+			"name": "Kera",
+			"ril100": "🇫🇮KEA",
+			"group": 2,
+			"x": 2324,
+			"y": -1363,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 240
+		},
+		{
+			"name": "Kerava",
+			"ril100": "🇫🇮KE",
+			"group": 2,
+			"x": 2364,
+			"y": -1392,
+			"proj": 3,
+			"platforms": 4,
+			"platformLength": 390
+		},
+		{
+			"name": "Kesälahti",
+			"ril100": "🇫🇮KTI",
+			"group": 2,
+			"x": 2916,
+			"y": -1624,
+			"proj": 3,
+			"platforms": 1,
+			"platformLength": 300
+		},
+		{
+			"name": "Keuruu",
+			"ril100": "🇫🇮KEU",
+			"group": 2,
+			"x": 2282,
+			"y": -1681,
+			"proj": 3,
+			"platforms": 1,
+			"platformLength": 100
+		},
+		{
+			"name": "Kirkkonummi",
+			"ril100": "🇫🇮KKN",
+			"group": 2,
+			"x": 2285,
+			"y": -1347,
+			"proj": 3,
+			"platforms": 3,
+			"platformLength": 320
+		},
+		{
+			"name": "Kitee",
+			"ril100": "🇫🇮KIT",
+			"group": 2,
+			"x": 2940,
+			"y": -1663,
+			"proj": 3,
+			"platforms": 1,
+			"platformLength": 320
+		},
+		{
+			"name": "Koivuhovi",
+			"ril100": "🇫🇮KVH",
+			"group": 2,
+			"x": 2317,
+			"y": -1361,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 280
+		},
+		{
+			"name": "Koivukylä",
+			"ril100": "🇫🇮KVY",
+			"group": 2,
+			"x": 2360,
+			"y": -1379,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 270
+		},
+		{
+			"name": "Kolho",
+			"ril100": "🇫🇮KLO",
+			"group": 2,
+			"x": 2259,
+			"y": -1661,
+			"proj": 3,
+			"platforms": 1,
+			"platformLength": 80
+		},
+		{
+			"name": "Koria",
+			"ril100": "🇫🇮KRA",
+			"group": 2,
+			"x": 2542,
+			"y": -1462,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 120
+		},
+		{
+			"name": "Korso",
+			"ril100": "🇫🇮KRS",
+			"group": 2,
+			"x": 2362,
+			"y": -1384,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 270
+		},
+		{
+			"name": "Kouvola",
+			"ril100": "🇫🇮KV",
+			"group": 2,
+			"x": 2555,
+			"y": -1465,
+			"proj": 3,
+			"platforms": 7,
+			"platformLength": 470
+		},
+		{
+			"name": "Käpylä",
+			"ril100": "🇫🇮KÄP",
+			"group": 2,
+			"x": 2348,
+			"y": -1363,
+			"proj": 3,
+			"platforms": 4,
+			"platformLength": 320
+		},
+		{
+			"name": "Lahti",
+			"ril100": "🇫🇮LH",
+			"group": 2,
+			"x": 2422,
+			"y": -1482,
+			"proj": 3,
+			"platforms": 5,
+			"platformLength": 410
+		},
+		{
+			"name": "Lappeenranta",
+			"ril100": "🇫🇮LR",
+			"group": 2,
+			"x": 2736,
+			"y": -1493,
+			"proj": 3,
+			"platforms": 3,
+			"platformLength": 550
+		},
+		{
+			"name": "Lappohja",
+			"ril100": "🇫🇮LPO",
+			"group": 5,
+			"x": 2139,
+			"y": -1314,
+			"proj": 3,
+			"platforms": 1,
+			"platformLength": 70
+		},
+		{
+			"name": "Leppävaara",
+			"ril100": "🇫🇮LPV",
+			"group": 2,
+			"x": 2331,
+			"y": -1363,
+			"proj": 3,
+			"platforms": 4,
+			"platformLength": 370
+		},
+		{
+			"name": "Luumäki",
+			"ril100": "🇫🇮LÄ",
+			"group": 3,
+			"x": 2685,
+			"y": -1477,
+			"proj": 3
+		},
+		{
+			"name": "Malmi",
+			"ril100": "🇫🇮ML",
+			"group": 2,
+			"x": 2355,
+			"y": -1368,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 320
+		},
+		{
+			"name": "Myllymäki",
+			"ril100": "🇫🇮MY",
+			"group": 2,
+			"x": 2224,
+			"y": -1722,
+			"proj": 3,
+			"platforms": 1,
+			"platformLength": 220
+		},
+		{
+			"name": "Nastola",
+			"ril100": "🇫🇮NSL",
+			"group": 2,
+			"x": 2458,
+			"y": -1475,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 120
+		},
+		{
+			"name": "Nummela",
+			"ril100": "🇫🇮NM",
+			"group": 2,
+			"x": 2267,
+			"y": -1380,
+			"proj": 3
+		},
+		{
+			"name": "Oitti",
+			"ril100": "🇫🇮OI",
+			"group": 2,
+			"x": 2347,
+			"y": -1453,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 100
+		},
+		{
+			"name": "Orivesi Keskusta",
+			"ril100": "🇫🇮OVK",
+			"group": 5,
+			"x": 2250,
+			"y": -1591,
+			"proj": 3,
+			"platforms": 1,
+			"platformLength": 90
+		},
+		{
+			"name": "Orivesi",
+			"ril100": "🇫🇮OV",
+			"group": 2,
+			"x": 2251,
+			"y": -1587,
+			"proj": 3,
+			"platforms": 3,
+			"platformLength": 370
+		},
+		{
+			"name": "Parikkala",
+			"ril100": "🇫🇮PAR",
+			"group": 2,
+			"x": 2887,
+			"y": -1573,
+			"proj": 3,
+			"platforms": 3,
+			"platformLength": 290
+		},
+		{
+			"name": "Pasila",
+			"ril100": "🇫🇮PSL",
+			"group": 2,
+			"x": 2346,
+			"y": -1360,
+			"proj": 3,
+			"platforms": 11,
+			"platformLength": 480
+		},
+		{
+			"name": "Petäjävesi",
+			"ril100": "🇫🇮PVI",
+			"group": 2,
+			"x": 2341,
+			"y": -1681,
+			"proj": 3,
+			"platforms": 1,
+			"platformLength": 150
+		},
+		{
+			"name": "Pihlajavesi",
+			"ril100": "🇫🇮PH",
+			"group": 2,
+			"x": 2242,
+			"y": -1695,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 120
+		},
+		{
+			"name": "Piikkiö",
+			"ril100": "🇫🇮PIK",
+			"group": 6,
+			"x": 2040,
+			"y": -1395,
+			"proj": 3
+		},
+		{
+			"name": "Pori",
+			"ril100": "🇫🇮PRI",
+			"group": 2,
+			"x": 1934,
+			"y": -1560,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 250
+		},
+		{
+			"name": "Puistola",
+			"ril100": "🇫🇮PLA",
+			"group": 2,
+			"x": 2358,
+			"y": -1372,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 320
+		},
+		{
+			"name": "Pukinmäki",
+			"ril100": "🇫🇮PMK",
+			"group": 2,
+			"x": 2353,
+			"y": -1367,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 280
+		},
+		{
+			"name": "Rajamäki",
+			"ril100": "🇫🇮RM",
+			"group": 2,
+			"x": 2319,
+			"y": -1412,
+			"proj": 3
+		},
+		{
+			"name": "Rautjärvi",
+			"ril100": "🇫🇮RJÄ",
+			"group": 6,
+			"x": 2841,
+			"y": -1532,
+			"proj": 3
+		},
+		{
+			"name": "Rekola",
+			"ril100": "🇫🇮RKL",
+			"group": 2,
+			"x": 2361,
+			"y": -1381,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 270
+		},
+		{
+			"name": "Riihimäki",
+			"ril100": "🇫🇮RI",
+			"group": 2,
+			"x": 2318,
+			"y": -1444,
+			"proj": 3,
+			"platforms": 5,
+			"platformLength": 392
+		},
+		{
+			"name": "Salo",
+			"ril100": "🇫🇮SLO",
+			"group": 2,
+			"x": 2117,
+			"y": -1389,
+			"proj": 3,
+			"platforms": 3,
+			"platformLength": 310
+		},
+		{
+			"name": "Saunakallio",
+			"ril100": "🇫🇮SAU",
+			"group": 2,
+			"x": 2358,
+			"y": -1405,
+			"proj": 3,
+			"platforms": 3,
+			"platformLength": 270
+		},
+		{
+			"name": "Savio",
+			"ril100": "🇫🇮SAV",
+			"group": 2,
+			"x": 2364,
+			"y": -1389,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 270
+		},
+		{
+			"name": "Seinäjoki",
+			"ril100": "🇫🇮SK",
+			"group": 2,
+			"x": 2044,
+			"y": -1764,
+			"proj": 3,
+			"platforms": 4,
+			"platformLength": 489
+		},
+		{
+			"name": "Simpele",
+			"ril100": "🇫🇮SPL",
+			"group": 2,
+			"x": 2874,
+			"y": -1552,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 270
+		},
+		{
+			"name": "Siuntio",
+			"ril100": "🇫🇮STI",
+			"group": 2,
+			"x": 2258,
+			"y": -1351,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 176
+		},
+		{
+			"name": "Skogby",
+			"ril100": "🇫🇮SGY",
+			"group": 5,
+			"x": 2148,
+			"y": -1317,
+			"proj": 3,
+			"platforms": 1,
+			"platformLength": 120
+		},
+		{
+			"name": "Taavetti",
+			"ril100": "🇫🇮TA",
+			"group": 6,
+			"x": 2660,
+			"y": -1472,
+			"proj": 3
+		},
+		{
+			"name": "Tampere",
+			"ril100": "🇫🇮TPE",
+			"group": 2,
+			"x": 2180,
+			"y": -1563,
+			"proj": 3,
+			"platforms": 5,
+			"platformLength": 500
+		},
+		{
+			"name": "Tapanila",
+			"ril100": "🇫🇮TNA",
+			"group": 2,
+			"x": 2357,
+			"y": -1370,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 270
+		},
+		{
+			"name": "Toijala",
+			"ril100": "🇫🇮TL",
+			"group": 2,
+			"x": 2196,
+			"y": -1512,
+			"proj": 3,
+			"platforms": 4,
+			"platformLength": 450
+		},
+		{
+			"name": "Tuomarila",
+			"ril100": "🇫🇮TRL",
+			"group": 2,
+			"x": 2315,
+			"y": -1361,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 220
+		},
+		{
+			"name": "Turenki",
+			"ril100": "🇫🇮TU",
+			"group": 2,
+			"x": 2297,
+			"y": -1473,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 170
+		},
+		{
+			"name": "Turku Hauptbahnhof",
+			"ril100": "🇫🇮TKU",
+			"group": 1,
+			"x": 2007,
+			"y": -1400,
+			"proj": 3,
+			"platforms": 6,
+			"platformLength": 466
+		},
+		{
+			"name": "Turku Hafen",
+			"ril100": "🇫🇮TUS",
+			"group": 2,
+			"x": 2003,
+			"y": -1397,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 430
+		},
+		{
+			"name": "Uusikylä",
+			"ril100": "🇫🇮UKÄ",
+			"group": 2,
+			"x": 2468,
+			"y": -1474,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 120
+		},
+		{
+			"name": "Vainikkala",
+			"ril100": "🇫🇮VNA",
+			"group": 3,
+			"x": 2754,
+			"y": -1464,
+			"proj": 3
+		},
+		{
+			"name": "Vammala",
+			"ril100": "🇫🇮VMA",
+			"group": 2,
+			"x": 2072,
+			"y": -1540,
+			"proj": 3,
+			"platforms": 3,
+			"platformLength": 251
+		},
+		{
+			"name": "Viiala",
+			"ril100": "🇫🇮VIA",
+			"group": 2,
+			"x": 2184,
+			"y": -1519,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 170
+		},
+		{
+			"name": "Vilppula",
+			"ril100": "🇫🇮VLP",
+			"group": 2,
+			"x": 2261,
+			"y": -1645,
+			"proj": 3,
+			"platforms": 1,
+			"platformLength": 110
+		},
+		{
+			"name": "Äetsä",
+			"ril100": "🇫🇮ÄS",
+			"group": 6,
+			"x": 2051,
+			"y": -1532,
+			"proj": 3
+		},
+		{
+			"name": "Ähtäri",
+			"ril100": "🇫🇮ÄHT",
+			"group": 2,
+			"x": 2197,
+			"y": -1727,
+			"proj": 3,
+			"platforms": 1,
+			"platformLength": 225
+		},
+		{
+			"name": "Rasinsuon",
+			"ril100": "🇫🇮RAS",
+			"group": 6,
+			"x": 2701,
+			"y": -1482,
+			"proj": 3
+		},
+		{
+			"name": "Tikkurila",
+			"ril100": "🇫🇮TKL",
+			"group": 2,
+			"x": 2358,
+			"y": -1374,
+			"proj": 3,
+			"platforms": 6,
+			"platformLength": 490
+		},
+		{
+			"name": "Haarajoki",
+			"ril100": "🇫🇮HAA",
+			"group": 5,
+			"x": 2366,
+			"y": -1407,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 220
+		},
+		{
+			"name": "Mäntsälä",
+			"ril100": "🇫🇮MLÄ",
+			"group": 5,
+			"x": 2385,
+			"y": -1430,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 220
+		},
+		{
+			"name": "Hakosilta",
+			"ril100": "🇫🇮HLT",
+			"group": 4,
+			"x": 2405,
+			"y": -1473,
+			"proj": 3
+		},
+		{
+			"name": "Mommila",
+			"ril100": "🇫🇮MLA",
+			"group": 2,
+			"x": 2353,
+			"y": -1458,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 120
+		},
+		{
+			"name": "Lappila",
+			"ril100": "🇫🇮LAA",
+			"group": 2,
+			"x": 2365,
+			"y": -1462,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 60
+		},
+		{
+			"name": "Herrala",
+			"ril100": "🇫🇮HR",
+			"group": 2,
+			"x": 2401,
+			"y": -1469,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 110
+		},
+		{
+			"name": "Mankala",
+			"ril100": "🇫🇮MKA",
+			"group": 6,
+			"x": 2489,
+			"y": -1472,
+			"proj": 3
+		},
+		{
+			"name": "Utti",
+			"ril100": "🇫🇮UTI",
+			"group": 6,
+			"x": 2583,
+			"y": -1466,
+			"proj": 3
+		},
+		{
+			"name": "Kaitjärvi",
+			"ril100": "🇫🇮KJR",
+			"group": 6,
+			"x": 2634,
+			"y": -1472,
+			"proj": 3
+		},
+		{
+			"name": "Törölä",
+			"ril100": "🇫🇮TRÄ",
+			"group": 6,
+			"x": 2713,
+			"y": -1487,
+			"proj": 3
+		},
+		{
+			"name": "Tapavainola",
+			"ril100": "🇫🇮TAP",
+			"group": 6,
+			"x": 2725,
+			"y": -1488,
+			"proj": 3
+		},
+		{
+			"name": "Lauritsala",
+			"ril100": "🇫🇮LRS",
+			"group": 6,
+			"x": 2744,
+			"y": -1496,
+			"proj": 3
+		},
+		{
+			"name": "Mukko",
+			"ril100": "🇫🇮MKO",
+			"group": 6,
+			"x": 2753,
+			"y": -1499,
+			"proj": 3
+		},
+		{
+			"name": "Joutsenon",
+			"ril100": "🇫🇮JTS",
+			"group": 2,
+			"x": 2753,
+			"y": -1499,
+			"proj": 3,
+			"platforms": 2,
+			"platformLength": 450
+		},
+		{
+			"name": "Rauhan",
+			"ril100": "🇫🇮RAH",
+			"group": 3,
+			"x": 2795,
+			"y": -1513,
+			"proj": 3
+		},
+		{
+			"name": "Imatran",
+			"ril100": "🇫🇮IMR",
+			"group": 2,
+			"x": 2805,
+			"y": -1516,
+			"proj": 3,
+			"platforms": 1,
+			"platformLength": 450
+		},
+		{
+			"name": "Immola",
+			"ril100": "🇫🇮IM",
+			"group": 6,
+			"x": 2817,
+			"y": -1524,
+			"proj": 3
+		},
+		{
+			"name": "Laikko",
+			"ril100": "🇫🇮LKK",
+			"group": 6,
+			"x": 2862,
+			"y": -1542,
+			"proj": 3
+		},
+		{
+			"name": "Saari",
+			"ril100": "🇫🇮SR",
+			"group": 3,
+			"x": 2903,
+			"y": -1594,
+			"proj": 3
+		},
+		{
+			"name": "Poiksilta",
+			"ril100": "🇫🇮POI",
+			"group": 2,
+			"x": 2911,
+			"y": -1609,
+			"proj": 3
+		},
+		{
+			"name": "Puhos",
+			"ril100": "🇫🇮PUS",
+			"group": 3,
+			"x": 2932,
+			"y": -1655,
+			"proj": 3
+		},
+		{
+			"name": "Onkamo",
+			"ril100": "🇫🇮ONK",
+			"group": 6,
+			"x": 2945,
+			"y": -1689,
+			"proj": 3
+		},
+		{
+			"name": "Hammaslahti",
+			"ril100": "🇫🇮HSL",
+			"group": 2,
+			"x": 2923,
+			"y": -1708,
+			"proj": 3
+		},
+		{
+			"name": "Simola",
+			"ril100": "🇫🇮SI",
+			"group": 6,
+			"x": 2735,
+			"y": -1471,
+			"proj": 3
+		},
+		{
+			"name": "Vyborg",
+			"ril100": "🇷🇺2004682",
+			"group": 2,
+			"x": 2813,
+			"y": -1441,
+			"proj": 3,
+			"platforms": 6,
+			"platformLength": 470
+		},
+		{
+			"name": "Terijoki",
+			"ril100": "🇷🇺2004232",
+			"group": 2,
+			"x": 2943,
+			"y": -1361,
+			"proj": 3,
+			"platforms": 5,
+			"platformLength": 350
 		}
 	]
 }
